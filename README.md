@@ -1,6 +1,6 @@
-# TTN decoder for KLAX electricity meter sensors
+# TTN decoder for Tabs door and window sensors
 
-This repo contains a fully featured decoder for [KLAX electricity meter LoRaWAN sensor](https://alpha-omega-technology.de/klax-der-lorawan-faehige-optokopf).
+This repo contains a fully featured decoder for Tabs door and window sensor(putURLhere).
 
 It decodes all types of messages the sensor sends into easy to use JSON objects.
 
